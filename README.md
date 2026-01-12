@@ -20,7 +20,7 @@ materials, and scientific imaging. Below are public demos across 10+ domains.
 
 - Battery degradation (NASA PCoE) – [battery-som-cnn-demo](https://github.com/stella20xx/battery-som-cnn-demo)  
 - Facade defects (algae, stains, spalling) – [facade-defect-som-cnn-demo](https://github.com/你的链接)  
-- XCT phantom defects – [xct-som-cnn-phantom-demo](https://github.com/你的链接)  
+- XCT phantom defects – [xct-som-cnn-phantom-demo](https://github.com/stella20xx/xct-phantom-som-cnn-demo)  
 - Dynamic ptychography (gold nanoparticles) – [ptychography-som-cnn-demo](https://github.com/你的链接)  
 - Ghost & SPDC quantum imaging – [ghost-quantum-som-cnn-demo](https://github.com/你的链接)
 ## Hi there 👋
