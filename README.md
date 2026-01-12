@@ -18,7 +18,7 @@ materials, and scientific imaging. Below are public demos across 10+ domains.
 
 ## Cross-domain demos
 
-- Battery degradation (NASA PCoE) – [battery-som-cnn-demo](https://github.com/你的链接)  
+- Battery degradation (NASA PCoE) – [battery-som-cnn-demo](https://github.com/stella20xx/battery-som-cnn-demo)  
 - Facade defects (algae, stains, spalling) – [facade-defect-som-cnn-demo](https://github.com/你的链接)  
 - XCT phantom defects – [xct-som-cnn-phantom-demo](https://github.com/你的链接)  
 - Dynamic ptychography (gold nanoparticles) – [ptychography-som-cnn-demo](https://github.com/你的链接)  
